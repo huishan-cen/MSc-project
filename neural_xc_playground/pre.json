@@ -1,0 +1,1 @@
+{"preprocessor": {"basis": "ccpvtz-jkfit", "extension": "chkpt", "application": "pyscf", "spec_agnostic": false, "C": {"n": 10, "l": 5}, "H": {"n": 4, "l": 4}}, "engine_kwargs": {"xc": "PBE", "basis": "ccpvdz"}, "n_workers": 1}
